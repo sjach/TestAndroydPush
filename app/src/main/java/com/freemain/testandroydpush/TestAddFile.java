@@ -10,6 +10,7 @@ public class TestAddFile {
     TestAddFile()
     {
         x = 1;
+        x++;
     }
 
 }
