@@ -5,6 +5,9 @@ package com.freemain.testandroydpush;
  */
 public class TestAddFile {
 
+    // adding in some comments
+    //
+
     public int x;
 
     TestAddFile()
