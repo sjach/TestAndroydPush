@@ -53,5 +53,10 @@ public class MainActivity extends AppCompatActivity {
     void dummyMethodSJJ()
     {
         int x = 1+1;
+
+        int y = x + 1;
+
+        int z = x + y;
+
     }
 }
